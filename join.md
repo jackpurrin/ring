@@ -9,7 +9,7 @@ requirments to join
 - you have at least one cat
 - you write about cats (not required, but may be helpful to join!)
 - you have at least one picture of a cat on your website
-- or are a cat
+- or are a cat (again, not required, but may be helpful to join)
 
 if you want to join the webring, just <a class="button" href="https://github.com/{{ site.repository }}/issues/new/choose">open a request</a>  on github!
 
