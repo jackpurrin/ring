@@ -1,0 +1,10 @@
+{
+  "sites": [
+    {
+      "name": "logs",
+      "url": "https://jackpurrin.me/",
+      "author": "jackpurrin <me@jackpurrin.me>",
+      "rss": "https://log.jackpurrin.me/feed.xml"
+    }
+  ]
+}
