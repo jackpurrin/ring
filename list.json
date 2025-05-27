@@ -5,6 +5,11 @@
       "url": "https://jackpurrin.me/",
       "author": "jackpurrin <me@jackpurrin.me>",
       "rss": "https://log.jackpurrin.me/feed.xml"
-    }
+    },
+    {
+      "name": "Mroof's Website",
+      "url": "https://mroofboolean.github.io",
+      "author": "MroofBoolean",
+      "rss": "https://github.com/MroofBoolean/MroofBoolean.github.io/commits.atom"
   ]
 }
