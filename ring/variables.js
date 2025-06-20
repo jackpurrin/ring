@@ -1,0 +1,1 @@
+var sites=["https://jackpurrin.me/"],ringName="the kitty webring",ringID="kittywebring",useIndex=yes,indexPage="https://ring.jackpurrin.me/",useRandom=!0;
