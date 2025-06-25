@@ -1,0 +1,35 @@
+html,
+body {
+    background-color: #191724;
+    color: #e0def4;
+    text-align: center;
+    font-family: monospace;
+    font-size: 1rem;
+}
+
+main {
+    background-color: #26233a;
+    overflow: scroll;
+    width: fit-content;
+    height: fit-content;
+    padding: 1.5rem;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    color: #31748f;
+    font-size: 1.2rem;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+pre {
+    color: #e0def4
+}
